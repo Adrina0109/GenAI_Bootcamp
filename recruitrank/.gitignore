@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+artifacts/
+*.npy
+*.pkl
+data/candidates.jsonl
+data/candidates.jsonl.gz
+.DS_Store
+*.egg-info/

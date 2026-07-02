@@ -1,0 +1,6 @@
+team_name: GenAI Bootcamp
+track: Data & AI Challenge — Intelligent Candidate Discovery
+role: Senior AI Engineer — Founding Team (Redrob AI)
+approach: Hybrid structural + semantic + behavioral ranking
+runtime: CPU-only, offline at ranking time
+top_k: 100
